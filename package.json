@@ -1,0 +1,20 @@
+{
+  "name": "yaml-json-converter",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 4599",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0 --port 4599",
+    "test": "node test/test.js"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^3.1.1",
+    "svelte": "^4.2.18",
+    "vite": "^5.4.2"
+  }
+}

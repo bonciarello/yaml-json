@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cristianporco.it/app/convertitore-da-yaml-a-json-con-editor-a-pannelli-affiancati/sitemap.xml
